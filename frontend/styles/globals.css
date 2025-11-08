@@ -1,0 +1,9 @@
+html, body, #__next {
+  height: 100%;
+}
+body {
+  font-family: Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
+  margin: 0;
+  background: #fff;
+  color: #111;
+}
