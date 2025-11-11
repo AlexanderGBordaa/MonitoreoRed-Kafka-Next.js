@@ -462,7 +462,8 @@ frontend/page.tsx → Recibe eventos y actualiza UI
 ## 👨‍💻 Autor
 
 **Alexander G. Borda**  
-Licenciatura en Análisis de Sistemas — 3er Año  
+Licenciatura en Sistemas — 3er Año
+Ultimo año de Analista en Sistemas
 Materia: **Programación Avanzada**
 
 📎 [Repositorio en GitHub](https://github.com/AlexanderGBordaa/MonitoreoRed-Kafka-Next.js)
@@ -475,3 +476,4 @@ Materia: **Programación Avanzada**
 - Todos los datos son **simulados** y se generan aleatoriamente
 - El sistema está diseñado para ser **educativo** y demostrar conceptos de sistemas distribuidos y tiempo real
 - La arquitectura puede extenderse fácilmente para usar Kafka real conectando a un cluster de Kafka
+
